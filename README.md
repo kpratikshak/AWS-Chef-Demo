@@ -1,4 +1,4 @@
-# AWS-Chef-Demo
+# AWS Chef Configuration & Nginx MySQL Integration
 
 ## Technologies
 Chef-Project-Nginx-NodeJS-MySQL
